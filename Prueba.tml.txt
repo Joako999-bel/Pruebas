@@ -1,0 +1,18 @@
+<hr> <h2>Sección de Práctica</h2>
+    <p>Este es un párrafo de ejemplo. Aquí puedes escribir <strong>texto importante</strong> y también <em>texto con énfasis</em>.</p>
+
+    <h3>Mis enlaces favoritos</h3>
+    <ul>
+        <li><a href="https://www.google.com" target="_blank">Ir a Google</a></li>
+        <li><a href="https://developer.mozilla.org" target="_blank">Documentación MDN (Súper útil)</a></li>
+    </ul>
+
+    <h3>Una imagen de ejemplo</h3>
+    <img src="https://via.placeholder.com/150" alt="Imagen de muestra">
+
+    <h3>Lista de tareas</h3>
+    <ol>
+        <li>Aprender etiquetas básicas</li>
+        <li>Entender la estructura del cuerpo (body)</li>
+        <li>Empezar con CSS</li>
+    </ol>
