@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1> hola mundo </h1>
-    <h2> hola mundo </h2>
+    <h2> hola mundo </h1>
     <h3> hola mundo </h3>
     <h4> hola mundo </h4>
     <h5> hola mundo </h5>
