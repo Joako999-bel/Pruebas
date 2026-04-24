@@ -1,5 +1,0 @@
-
-Saulo = input("Di Hola: ")
-if Saulo == "Hola":
-    print("Hola mundo")
-    
