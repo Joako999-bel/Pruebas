@@ -1,8 +1,24 @@
-#texto1{
-    color: aqua;
-    text-decoration: underline;
+.titulo{
+    color: blue;
+    text-align: center;
+    width: 60%;
+    background-color: red;
+    border-radius: 20%;
+    transition: background-color 3s linear;
 }
 
-#hola{
-    color: blue;
+.cuadro1{
+    color: blueviolet;
+    width: 80%;
+}
+
+.cuadro2{
+    color: brown;
+    width: 70%;
+    max-width: 600px;
+    min-width: 200px;
+    background-color: rgb(20, 195, 40);
+    border-radius: 30%;
+    transform: background-color 8s linear;
+    text-align: center;
 }
